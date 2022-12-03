@@ -1,5 +1,3 @@
-
-
 with open("3_dec/input.txt", "r") as f:
     lines = f.readlines()
 
