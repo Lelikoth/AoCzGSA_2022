@@ -31,7 +31,9 @@ for i in range(0, len(lines), 3):
             score += value[char]
             break
 
+
 print(score)
+
 
 
 
